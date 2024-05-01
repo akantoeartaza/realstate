@@ -40,6 +40,7 @@ textarea, select {
   height: 46px;
   font-family: "Oswald", sans-serif;
   background-color: #f9f9f9;
+  text-decoration: none;
 }
 
 img {
@@ -139,7 +140,12 @@ img {
   background-color: #222;
   z-index: 999;
 }
-
+.logoo{
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  color: #ffffff;
+}
 .header__inner {
   position: relative;
   display: -webkit-box;

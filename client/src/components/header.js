@@ -22,7 +22,7 @@ function Header({ isLoggedIn, setIsLoggedIn }) {
       <div className="container">
         <div className="header__inner">
           <Link to="/">
-            <img src="assets/img/logo_white.png" alt="" />
+            <i className="logoo">Yellow Helmet</i>
           </Link>
           <nav className="raising-nav">
             <ul className="raising-menu">
